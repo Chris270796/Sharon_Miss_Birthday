@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 20px;
+}
+
+#cardimg1 {
+    height: 1000px;
+    width: 1000px;
+}
